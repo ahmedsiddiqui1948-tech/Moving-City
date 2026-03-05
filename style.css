@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-image: url(bg.jpg.jpeg);
+    background-image: url(bg.jpg);
     background-position: bottom left;
     animation: bgMovement 5s linear infinite;
 }
@@ -112,4 +112,5 @@ body {
     100% {
         left: 2000px;
     }
+
 }
